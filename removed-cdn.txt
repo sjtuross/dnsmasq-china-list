@@ -79,6 +79,7 @@ img.mediaplex.com
 international.download.nvidia.com
 international-gfe.download.nvidia.com
 lh3.appinn.net
+lx2.cok.elexapp.com
 marketplace-xb.xboxlive.com
 media.admob.com
 mediaexp-programming.xboxlive.com
@@ -117,6 +118,7 @@ web-service.halo.xbox.com
 web-service-ssl.halo.xbox.com
 www1-cdn.dell.com
 www.ikea.com
+www.kaspersky.com
 www.nvidia.com
 www.parallels.com
 www.renren.com.cdngc.net
